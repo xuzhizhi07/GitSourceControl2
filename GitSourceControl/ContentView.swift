@@ -8,12 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    var title:String = ""
     var body: some View {
         VStack {
             Image(systemName: "heart.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, zoey!")
+            Text("Hello, Chris!")
             Text("Hello, zoey!")
             
            
