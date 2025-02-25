@@ -14,7 +14,7 @@ struct ContentView: View {
             Image(systemName: "eraser.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, Chris!")
+            Text("drop test!")
             Text("Hello, zoey!")
             Text("Hello, zoey!")
             Text("Hello, mySecondBranch!")
