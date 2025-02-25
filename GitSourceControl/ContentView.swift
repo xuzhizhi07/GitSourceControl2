@@ -11,13 +11,14 @@ struct ContentView: View {
     var title:String = ""
     var body: some View {
         VStack {
-            Image(systemName: "heart.fill")
+            Image(systemName: "eraser.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, Chris!")
             Text("Hello, zoey!")
             Text("Hello, zoey!")
             Text("Hello, mySecondBranch!")
+            Text("Hello, 2025!")
             
            
         }
